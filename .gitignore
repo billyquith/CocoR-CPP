@@ -1,1 +1,6 @@
+
+*.old
+*.exe
+
 .DS_Store
+
